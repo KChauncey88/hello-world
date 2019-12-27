@@ -1,2 +1,3 @@
-print("Hello World!")
-# A basic Hello World program
+message="Hello World!"
+print(message)
+# Adding a basic variable
