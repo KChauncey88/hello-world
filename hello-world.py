@@ -1,3 +1,5 @@
 message="Hello World!"
 print(message)
-# Adding a basic variable
+message="I'm excited to be here!"
+print(message)
+# Working with variable timings.
